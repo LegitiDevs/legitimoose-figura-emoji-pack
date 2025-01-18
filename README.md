@@ -12,7 +12,7 @@
     <a href="https://modrinth.com/resourcepack/legitimoose-figura-emoji-pack">
         <img width="300" src="https://raw.githubusercontent.com/LegitiDevs/legitimoose-figura-emoji-pack/refs/heads/main/download_on_modrinth.png">
     </a>
-    <a href="https://modrinth.com/resourcepack/legitimoose-figura-emoji-pack">
+    <a href="https://modrinth.com/mod/figura">
         <img width="300" src="https://raw.githubusercontent.com/LegitiDevs/legitimoose-figura-emoji-pack/refs/heads/main/requires_figura.png">
     </a>
 </div>
