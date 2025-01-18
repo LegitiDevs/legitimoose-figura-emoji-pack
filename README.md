@@ -4,14 +4,13 @@
 
 <h1 align="center">Legitimoose Figura Emoji Pack<h1>
 
-
-<p align="center">
+<h2 align="center">
     Adds emojis from the hit server 
     <a href="https://store.legitimoose.com">legitimoose.com</a>
     into <a href="https://github.com/FiguraMC/Figura">Figura</a>.
-</p>
+</h2>
 
-<h5>
+<h5 align="center">
     by 
     <a href="https://github.com/LegitiDevs">LegitiDevs</a>, formerly by 
     <a href="https://github.com/Trioplane">Trplnr</a>
