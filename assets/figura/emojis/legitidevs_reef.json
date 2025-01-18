@@ -1,0 +1,10 @@
+{
+    "blacklist": "",
+    "emojis": {
+        "\uE000": ["reeftrue"],
+        "\uE001": ["reeffalse"],
+        "\uE002": ["leftreef"],
+        "\uE003": ["rightreef"],
+        "\uE004": ["eeffreef"]
+    }
+}

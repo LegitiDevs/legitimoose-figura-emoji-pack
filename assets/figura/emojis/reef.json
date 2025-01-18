@@ -1,0 +1,27 @@
+{
+    "blacklist": "",
+    "emojis": {
+        "\uE000": ["reefexcited"],
+        "\uE001": ["reefultra"],
+        "\uE002": ["reefdesire"],
+        "\uE003": ["reefupthumbered"],
+        "\uE004": ["reefskull"],
+        "\uE005": ["reef_irl"],
+        "\uE006": ["upreef"],
+        "\uE007": ["downreef"],
+        "\uE008": ["reefsob"],
+        "\uE009": ["rf"],
+        "\uE00a": ["reefend"],
+        "\uE00b": ["reefbrick"],
+        "\uE00c": ["reefclown"],
+        "\uE00d": ["reefgod"],
+        "\uE00e": ["reefgold"],
+        "\uE00f": ["evilreef"],
+        "\uE010": ["reefoldtimey"],
+        "\uE011": ["reefshocked"],
+        "\uE012": ["reefhmm"],
+        "\uE013": ["reefsad"],
+        "\uE014": ["polarreef"],
+        "\uE015": ["reefheart"]
+    }
+}
