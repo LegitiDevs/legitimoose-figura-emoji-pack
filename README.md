@@ -4,16 +4,23 @@
 
 <h1 align="center">Legitimoose Figura Emoji Pack<h1>
 
-<div align="center" style="font-size: 0.8em; color: white;">
- Adds emojis from the hit server 
- <a href="https://store.legitimoose.com">legitimoose.com</a>
- into <a href="https://github.com/FiguraMC/Figura">Figura</a>.
 
- <p style="font-size: 0.5em; color: gray; margin-top: 20px;">by <a href="https://github.com/LegitiDevs">LegitiDevs</a>, formerly by <a href="https://github.com/Trioplane">Trplnr</a></p>
+<p align="center">
+    Adds emojis from the hit server 
+    <a href="https://store.legitimoose.com">legitimoose.com</a>
+    into <a href="https://github.com/FiguraMC/Figura">Figura</a>.
+</p>
 
- <a href="https://modrinth.com/resourcepack/legitimoose-figura-emoji-pack">
-    <img width="300" src="./download_on_modrinth.png">
- </a>
+<h5>
+    by 
+    <a href="https://github.com/LegitiDevs">LegitiDevs</a>, formerly by 
+    <a href="https://github.com/Trioplane">Trplnr</a>
+</h5>
+
+<div align="center">
+    <a href="https://modrinth.com/resourcepack/legitimoose-figura-emoji-pack">
+        <img width="300" src="./download_on_modrinth.png">
+    </a>
 </div>
 
 ## Credits
