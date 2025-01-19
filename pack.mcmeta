@@ -2,6 +2,6 @@
     "pack": {
         "pack_format": 46,
         "supported_formats": [34, 46],
-        "description": "(v1.6-rc1) Adds emojis from the hit server legitimoose.com into Figura. :moose_logo:"
+        "description": "(v1.6.1) Adds emojis from the hit server legitimoose.com into Figura. :moose_logo:"
     }
 }
