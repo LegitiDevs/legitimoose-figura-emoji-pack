@@ -5,6 +5,7 @@
         "\uE001": ["reeffalse"],
         "\uE002": ["leftreef"],
         "\uE003": ["rightreef"],
-        "\uE004": ["eeffreef"]
+        "\uE004": ["eeffreef"],
+        "\uE005": ["reefdevious"]
     }
 }

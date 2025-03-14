@@ -6,6 +6,7 @@
         "\uE002": {"names":["evilreefgif"],"frames":14,"frametime":2},
         "\uE003": {"names":["reefheartgif"],"frames":12,"frametime":2},
         "\uE004": {"names":["reefsadgif"],"frames":16,"frametime":2},
-        "\uE005": {"names":["reefultragif"],"frames":14,"frametime":2}
+        "\uE005": {"names":["reefultragif"],"frames":14,"frametime":2},
+        "\uE006": {"names":["reefpet"],"frames":5,"frametime":2}
     }
 }
