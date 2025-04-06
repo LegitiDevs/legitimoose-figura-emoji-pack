@@ -1,12 +1,12 @@
 {
     "blacklist": "",
     "emojis": {
-        "\uE000": {"names":["reefspin"],"frames":13,"frametime":4},
-        "\uE001": {"names":["reefdesiregif"],"frames":11,"frametime":2},
-        "\uE002": {"names":["evilreefgif"],"frames":14,"frametime":2},
-        "\uE003": {"names":["reefheartgif"],"frames":12,"frametime":2},
-        "\uE004": {"names":["reefsadgif"],"frames":16,"frametime":2},
-        "\uE005": {"names":["reefultragif"],"frames":14,"frametime":2},
-        "\uE006": {"names":["reefpet"],"frames":5,"frametime":2}
+        "\uE000": {"names":["reefspin"],"frames":26,"frametime":4},
+        "\uE001": {"names":["reefdesiregif"],"frames":22,"frametime":2},
+        "\uE002": {"names":["evilreefgif"],"frames":28,"frametime":2},
+        "\uE003": {"names":["reefheartgif"],"frames":24,"frametime":2},
+        "\uE004": {"names":["reefsadgif"],"frames":32,"frametime":2},
+        "\uE005": {"names":["reefultragif"],"frames":28,"frametime":2},
+        "\uE006": {"names":["reefpet"],"frames":10,"frametime":2}
     }
 }
