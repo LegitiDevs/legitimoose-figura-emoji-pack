@@ -1,6 +1,6 @@
 {
     "blacklist": "",
     "emojis": {
-        "\uE000": {"names":["pensiveanimated"],"frames":14,"frametime":4}
+        "\uE000": {"names":["pensiveanimated"],"frames":16,"frametime":2}
     }
 }
